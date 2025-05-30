@@ -8,7 +8,7 @@ Visit our games hub: **[serptest.github.io](https://serptest.github.io/)**
 
 ## 🎯 Available Games
 
-### [🐍 Snake Game](https://serptest.github.io/play/snake)
+### [🐍 Snake Game](https://serptest.github.io/snake-game/)
 Classic snake game - eat food and grow longer! Use arrow keys to control.
 - Repository: [serptest/snake-game](https://github.com/serptest/snake-game)
 - Install: `npm install github:serptest/snake-game`
@@ -18,10 +18,10 @@ Classic snake game - eat food and grow longer! Use arrow keys to control.
 ## 🏗️ Architecture
 
 Our platform uses a unique architecture where:
-- Each game is a standalone NPM package
-- Games are dynamically loaded on-demand
+- Each game has its own GitHub Pages site
+- Traffic is distributed across repositories
+- Games are also available as NPM packages
 - No rebuilding needed when adding new games
-- Every game has its own repository
 
 ## 🤝 Contributing
 
