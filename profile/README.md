@@ -13,7 +13,10 @@ Classic snake game - eat food and grow longer! Use arrow keys to control.
 - Repository: [serptest/snake-game](https://github.com/serptest/snake-game)
 - Install: `npm install github:serptest/snake-game`
 
-### More games coming soon!
+### [🟦 Tetris](https://serptest.github.io/tetris-game/)
+Classic block-stacking puzzle game! Clear lines and score points.
+- Repository: [serptest/tetris-game](https://github.com/serptest/tetris-game)
+- Install: `npm install github:serptest/tetris-game`
 
 ## 🏗️ Architecture
 
